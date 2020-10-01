@@ -13,8 +13,14 @@ body {
   }
 
   /* Size bio image */
-  #bio-image {
+  .bio-image {
     height: auto;
     width: 150px;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
   }
 }
