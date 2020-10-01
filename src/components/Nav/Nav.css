@@ -1,0 +1,52 @@
+/* nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-width: 10vh;
+  background-color: white;
+  color: #f392bd;
+}
+
+.navLinks {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.navLink {
+  color: #f392bd;
+} */
+
+/* Styling for navbar */
+.navbar {
+  margin-top: 16px;
+  background-color: #f392bd;
+  border-bottom: 4px white;
+}
+
+/* Styling for name on navbar */
+.navbar-brand {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+/* Styling for links */
+.navbar-toggler-icon,
+.nav-link,
+.navbar-brand {
+  color: white;
+
+  font-weight: bold;
+}
+
+/* Creates a hover effect on the navbar menu options */
+.hover:hover {
+  color: #fdc9ee;
+}
+
+/* Color for the active menu item */
+/* .active {
+  color: #ffb8de;
+} */
