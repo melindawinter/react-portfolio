@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Nav from "./components/Nav/Nav";
+import Footer from "./components/Footer/Footer";
 // import About from "./views/About";
 import Portfolio from "./views/Portfolio";
 import Contact from "./views/Contact";
@@ -16,6 +17,7 @@ function App() {
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
         </Switch>
+        <Footer />
       </div>
     </Router>
   );

@@ -1,0 +1,12 @@
+/* Styling for footer */
+.footer {
+  background-color: #f392bd;
+  text-align: center;
+  color: white;
+}
+
+i {
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}

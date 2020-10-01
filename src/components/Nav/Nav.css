@@ -1,27 +1,6 @@
-/* nav {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  min-width: 10vh;
-  background-color: white;
-  color: #f392bd;
-}
-
-.navLinks {
-  width: 40%;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  list-style: none;
-}
-
-.navLink {
-  color: #f392bd;
-} */
-
 /* Styling for navbar */
 .navbar {
-  margin-top: 16px;
+  /* margin-top: 16px; */
   background-color: #f392bd;
   border-bottom: 4px white;
 }
