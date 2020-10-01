@@ -1,9 +1,10 @@
 import React from "react";
+import AboutMe from "../components/AboutMe/AboutMe";
 
 function About() {
   return (
     <div>
-      <h1>About Page</h1>
+      <AboutMe />
     </div>
   );
 }
