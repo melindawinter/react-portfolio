@@ -1,10 +1,8 @@
 import React from "react";
-import image from "../../images/contact-pic.jpg";
 
 export default function ContactMe() {
   return (
     <main>
-      <div styles={{ backgroundImage: `url(${image})` }}>Background Pic </div>
       <div class="container py-2 px-5 mb-5">
         <div class="row">
           <section>
