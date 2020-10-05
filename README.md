@@ -1,6 +1,8 @@
-# React Portflio ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# React Portfolio ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Description
+
+<https://melindawinter.github.io/react-portfolio/>
 
 This is a website intended to host my professional information and contact details. It is designed to be responsive and look great on big and small screens. This is a long-term project that I will continue to build and refine. The site has working navigation links that let users easier travel between the About, Portfolio, and Contact pages. There are also links in the footer that will allow visitors to easily email me or see my LinkedIn and GitHub profiles.
 
