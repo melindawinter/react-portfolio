@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   background-color: lightgray;
 }
@@ -27,6 +33,7 @@ body {
 
 /* Styling for buttons */
 .btn {
-  background-color: deeppink;
-  color: white;
+  background-color: white;
+  color: #f89ac6;
+  font-weight: bold;
 }
