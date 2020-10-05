@@ -1,5 +1,5 @@
 import React from "react";
-import Icon from "./icon";
+import Icon from "../Icon/Icon";
 
 const ContactMeIcon = props => {
   return (
