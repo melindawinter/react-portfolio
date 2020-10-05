@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.6c283180.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.6682b74a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6682b74a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.27fb96b6.chunk.js": "/react-portfolio/static/js/2.27fb96b6.chunk.js",
+    "static/js/2.27fb96b6.chunk.js.map": "/react-portfolio/static/js/2.27fb96b6.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.014e2ddced46af7ad9e2f0829b488e73.js": "/react-portfolio/precache-manifest.014e2ddced46af7ad9e2f0829b488e73.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.6c283180.chunk.css.map": "/react-portfolio/static/css/main.6c283180.chunk.css.map",
+    "static/js/2.27fb96b6.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.27fb96b6.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/react-portfolio/static/media/burger.931b0fdd.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.9d4a4adc.png",
+    "static/media/desk.png": "/react-portfolio/static/media/desk.3d6d850a.png",
+    "static/media/scheduler.png": "/react-portfolio/static/media/scheduler.173ae2af.png",
+    "static/media/sw.png": "/react-portfolio/static/media/sw.bec2accf.png",
+    "static/media/teams.png": "/react-portfolio/static/media/teams.c8e05b84.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.61147cc8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.27fb96b6.chunk.js",
+    "static/css/main.6c283180.chunk.css",
+    "static/js/main.6682b74a.chunk.js"
+  ]
+}
