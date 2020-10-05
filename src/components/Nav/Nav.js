@@ -9,7 +9,7 @@ function Nav() {
           <h3>Melinda Winter</h3>
         </Link>
         <button
-          class="navbar-toggler navbar-light"
+          className="navbar-toggler navbar-light"
           type="button"
           data-toggle="collapse"
           data-target="#navbarNav"
@@ -17,7 +17,7 @@ function Nav() {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span class="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
