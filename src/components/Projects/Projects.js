@@ -1,13 +1,18 @@
 import React from "react";
 import "./Projects.css";
 import image from "../../images/sw.png";
+import image2 from "../../images/burger.png";
+import image3 from "../../images/weather.png";
+import image4 from "../../images/scheduler.png";
+import image5 from "../../images/code-quiz.png";
+import image6 from "../../images/teams.png";
 
 export default function Projects() {
   return (
     <main>
       <div className="container">
         <div className="row pt-5">
-          <div className="card project-card">
+          <div className="card project-card width">
             <img
               src={image}
               className="card-img-top"
@@ -22,6 +27,7 @@ export default function Projects() {
               <a
                 href="https://secure-savannah-12538.herokuapp.com/signup.html"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Visit Site
@@ -29,6 +35,7 @@ export default function Projects() {
               <a
                 href="https://github.com/melindawinter/Spontaneous-Weekend"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Explore Code
@@ -36,9 +43,9 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="card project-card">
+          <div className="card project-card width">
             <img
-              src="assets/images/burger2.png"
+              src={image2}
               className="card-img-top"
               alt="Plant Burger website"
             />
@@ -50,6 +57,7 @@ export default function Projects() {
               <a
                 href="https://radiant-meadow-34570.herokuapp.com"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Visit Site
@@ -57,6 +65,7 @@ export default function Projects() {
               <a
                 href="https://github.com/melindawinter/burger"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Explore Code
@@ -64,9 +73,9 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="card project-card">
+          <div className="card project-card width">
             <img
-              src="assets/images/weather3.png"
+              src={image3}
               className="card-img-top"
               alt="Weather Dashboard website"
             />
@@ -79,6 +88,7 @@ export default function Projects() {
               <a
                 href="https://melindawinter.github.io/weather-dashboard/"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Visit Site
@@ -86,6 +96,7 @@ export default function Projects() {
               <a
                 href="https://github.com/melindawinter/weather-dashboard"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Explore Code
@@ -95,9 +106,9 @@ export default function Projects() {
         </div>
 
         <div className="row pt-5">
-          <div className="card project-card">
+          <div className="card project-card width">
             <img
-              src="assets/images/scheduler2.png"
+              src={image4}
               className="card-img-top"
               alt="Work Day Scheduler website"
             />
@@ -110,6 +121,7 @@ export default function Projects() {
               <a
                 href="https://melindawinter.github.io/work-day-scheduler/"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Visit Site
@@ -117,6 +129,7 @@ export default function Projects() {
               <a
                 href="https://github.com/melindawinter/work-day-scheduler"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Explore Code
@@ -124,9 +137,9 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="card project-card">
+          <div className="card project-card width">
             <img
-              src="assets/images/code-quiz.png"
+              src={image5}
               className="card-img-top"
               alt="Code Quiz website"
             />
@@ -139,6 +152,7 @@ export default function Projects() {
               <a
                 href="https://melindawinter.github.io/code-quiz/"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Visit Site
@@ -146,6 +160,7 @@ export default function Projects() {
               <a
                 href="https://github.com/melindawinter/code-quiz"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Explore Code
@@ -153,9 +168,9 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="card project-card">
+          <div className="card project-card width">
             <img
-              src="assets/images/teams.png"
+              src={image6}
               className="card-img-top"
               alt="Team Generator website"
             />
@@ -169,6 +184,7 @@ export default function Projects() {
               <a
                 href="https://github.com/melindawinter/team-generator"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Explore Code

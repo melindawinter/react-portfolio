@@ -24,3 +24,9 @@ body {
     width: 50%;
   }
 }
+
+/* Styling for buttons */
+.btn {
+  background-color: deeppink;
+  color: white;
+}

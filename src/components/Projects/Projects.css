@@ -1,3 +1,19 @@
 .project-card {
+  background-color: black;
+  color: white;
+  margin: 30px;
+}
+
+.width {
   width: 20rem;
+}
+
+.portfolio-image {
+  height: auto;
+  width: 350px;
+}
+
+.btn {
+  margin-right: 5px;
+  margin-bottom: 10px;
 }
