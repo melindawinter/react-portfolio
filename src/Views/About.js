@@ -1,11 +1,11 @@
 import React from "react";
 import AboutMe from "../components/AboutMe/AboutMe";
-import SkillsSection from "../components/Skills-Section/Skills-Section";
+import Skills from "../components/Skills-Section/Skills-Section";
 
 function About() {
   return (
     <div>
-      <SkillsSection />
+      <Skills />
       <AboutMe />
     </div>
   );
